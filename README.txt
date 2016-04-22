@@ -1,5 +1,5 @@
-# RealtimeSystem
-##### Holding my CA scripts
+RealtimeSystem
+Holding my CA scripts
 
                             EE5903 REAL-TIME SYSTEMS (CA1 Exercise)                            
                                                                                                
